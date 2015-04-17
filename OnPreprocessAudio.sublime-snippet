@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPreprocessAudio()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnPreprocessAudio</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPreprocessAudio</description>
+</snippet>

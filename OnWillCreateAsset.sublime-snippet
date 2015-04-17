@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private static void OnWillCreateAsset(string ${1:path})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnWillCreateAsset</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnWillCreateAsset</description>
+</snippet>

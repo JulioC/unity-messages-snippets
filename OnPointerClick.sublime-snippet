@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPointerClick(PointerEventData ${1:eventData})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnPointerClick</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPointerClick</description>
+</snippet>

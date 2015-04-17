@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnLevelWasLoaded(int ${1:level})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnLevelWasLoaded</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnLevelWasLoaded</description>
+</snippet>

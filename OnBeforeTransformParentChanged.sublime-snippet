@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnBeforeTransformParentChanged()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnBeforeTransformParentChanged</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnBeforeTransformParentChanged</description>
+</snippet>

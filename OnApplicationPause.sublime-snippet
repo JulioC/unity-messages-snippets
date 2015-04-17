@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnApplicationPause(bool ${1:pauseStatus})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnApplicationPause</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnApplicationPause</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnSerializeNetworkView(BitStream ${1:stream}, NetworkMessageInfo ${2:info})
+{
+	${3:}
+}]]></content>
+  <tabTrigger>OnSerializeNetworkView</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnSerializeNetworkView</description>
+</snippet>

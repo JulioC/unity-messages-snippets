@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPostRender()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnPostRender</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPostRender</description>
+</snippet>

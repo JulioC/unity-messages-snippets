@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPointerEnter(PointerEventData ${1:eventData})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnPointerEnter</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPointerEnter</description>
+</snippet>

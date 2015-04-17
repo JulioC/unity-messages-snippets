@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnRenderImage(RenderTexture ${1:src}, RenderTexture ${2:dest})
+{
+	${3:}
+}]]></content>
+  <tabTrigger>OnRenderImage</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnRenderImage</description>
+</snippet>

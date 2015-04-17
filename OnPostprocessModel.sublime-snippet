@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPostprocessModel(GameObject ${1:root})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnPostprocessModel</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPostprocessModel</description>
+</snippet>

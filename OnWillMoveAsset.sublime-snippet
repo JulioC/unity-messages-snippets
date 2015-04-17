@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private static AssetMoveResult OnWillMoveAsset(string ${1:oldPath}, string ${2:newPath})
+{
+	${3:}
+}]]></content>
+  <tabTrigger>OnWillMoveAsset</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnWillMoveAsset</description>
+</snippet>

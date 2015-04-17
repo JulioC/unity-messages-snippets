@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnSubmit(BaseEventData ${1:eventData})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnSubmit</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnSubmit</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPreRender()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnPreRender</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPreRender</description>
+</snippet>

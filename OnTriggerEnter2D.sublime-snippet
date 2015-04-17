@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnTriggerEnter2D(Collider2D ${1:other})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnTriggerEnter2D</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnTriggerEnter2D</description>
+</snippet>

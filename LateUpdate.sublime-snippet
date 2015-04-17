@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void LateUpdate()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>LateUpdate</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message LateUpdate</description>
+</snippet>

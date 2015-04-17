@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private static AssetDeleteResult OnWillDeleteAsset(string ${1:assetPath}, RemoveAssetOptions ${2:option})
+{
+	${3:}
+}]]></content>
+  <tabTrigger>OnWillDeleteAsset</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnWillDeleteAsset</description>
+</snippet>

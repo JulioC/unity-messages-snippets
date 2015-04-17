@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnCollisionExit(Collision ${1:collision})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnCollisionExit</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnCollisionExit</description>
+</snippet>

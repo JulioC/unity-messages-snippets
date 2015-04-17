@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnApplicationFocus(bool ${1:focusStatus})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnApplicationFocus</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnApplicationFocus</description>
+</snippet>

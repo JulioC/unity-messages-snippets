@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnMouseUp()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnMouseUp</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnMouseUp</description>
+</snippet>

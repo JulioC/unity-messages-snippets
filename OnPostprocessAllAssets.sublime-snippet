@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private static void OnPostprocessAllAssets(string[] ${1:importedAssets}, string[] ${2:deletedAssets}, string[] ${3:movedAssets}, string[] ${4:movedFromPath})
+{
+	${5:}
+}]]></content>
+  <tabTrigger>OnPostprocessAllAssets</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPostprocessAllAssets</description>
+</snippet>

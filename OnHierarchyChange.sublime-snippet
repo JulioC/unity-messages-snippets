@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnHierarchyChange()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnHierarchyChange</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnHierarchyChange</description>
+</snippet>

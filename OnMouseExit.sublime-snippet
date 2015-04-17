@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnMouseExit()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnMouseExit</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnMouseExit</description>
+</snippet>

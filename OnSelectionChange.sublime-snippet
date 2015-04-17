@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnSelectionChange()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnSelectionChange</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnSelectionChange</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPointerExit(PointerEventData ${1:eventData})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnPointerExit</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPointerExit</description>
+</snippet>

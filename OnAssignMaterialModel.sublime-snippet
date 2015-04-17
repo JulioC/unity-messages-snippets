@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private Material OnAssignMaterialModel(Material ${1:material}, Renderer ${2:renderer})
+{
+	${3:}
+}]]></content>
+  <tabTrigger>OnAssignMaterialModel</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnAssignMaterialModel</description>
+</snippet>

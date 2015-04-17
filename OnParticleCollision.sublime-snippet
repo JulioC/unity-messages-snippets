@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnParticleCollision(GameObject ${1:other})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnParticleCollision</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnParticleCollision</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnBecameVisible()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnBecameVisible</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnBecameVisible</description>
+</snippet>

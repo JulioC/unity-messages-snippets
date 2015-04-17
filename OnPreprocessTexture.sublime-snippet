@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private  OnPreprocessTexture()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnPreprocessTexture</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPreprocessTexture</description>
+</snippet>

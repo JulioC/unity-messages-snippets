@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPostprocessTexture(Texture2D ${1:texture})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnPostprocessTexture</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPostprocessTexture</description>
+</snippet>

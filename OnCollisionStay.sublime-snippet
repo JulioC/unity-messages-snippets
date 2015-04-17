@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnCollisionStay(Collision ${1:collision})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnCollisionStay</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnCollisionStay</description>
+</snippet>

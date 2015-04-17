@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnDisconnectedFromServer(NetworkDisconnection ${1:info})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnDisconnectedFromServer</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnDisconnectedFromServer</description>
+</snippet>

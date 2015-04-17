@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnLostFocus()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnLostFocus</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnLostFocus</description>
+</snippet>

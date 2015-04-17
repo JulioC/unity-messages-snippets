@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPlayerConnected(NetworkPlayer ${1:player})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnPlayerConnected</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPlayerConnected</description>
+</snippet>

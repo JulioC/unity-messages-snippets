@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPostprocessGameObjectWithUserProperties(GameObject ${1:root}, string[] ${2:propNames}, object[] ${3:values})
+{
+	${4:}
+}]]></content>
+  <tabTrigger>OnPostprocessGameObjectWithUserProperties</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPostprocessGameObjectWithUserProperties</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnApplicationQuit()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnApplicationQuit</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnApplicationQuit</description>
+</snippet>

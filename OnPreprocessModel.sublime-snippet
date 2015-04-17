@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPreprocessModel()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnPreprocessModel</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPreprocessModel</description>
+</snippet>

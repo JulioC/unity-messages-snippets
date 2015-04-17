@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnBeforeSerialize()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnBeforeSerialize</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnBeforeSerialize</description>
+</snippet>

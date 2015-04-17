@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnRebuildRequested()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnRebuildRequested</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnRebuildRequested</description>
+</snippet>

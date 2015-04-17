@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnServerInitialized()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnServerInitialized</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnServerInitialized</description>
+</snippet>

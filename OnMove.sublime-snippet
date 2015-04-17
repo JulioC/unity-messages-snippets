@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnMove(AxisEventData ${1:eventData})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnMove</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnMove</description>
+</snippet>

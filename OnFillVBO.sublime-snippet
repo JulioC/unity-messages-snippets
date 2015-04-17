@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnFillVBO(List<UIVertex> ${1:vbo})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnFillVBO</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnFillVBO</description>
+</snippet>

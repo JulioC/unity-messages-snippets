@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void Start()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>Start</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message Start</description>
+</snippet>

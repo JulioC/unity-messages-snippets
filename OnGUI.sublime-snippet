@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnGUI()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnGUI</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnGUI</description>
+</snippet>

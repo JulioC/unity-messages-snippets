@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnControllerColliderHit(ControllerColliderHit ${1:hit})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnControllerColliderHit</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnControllerColliderHit</description>
+</snippet>

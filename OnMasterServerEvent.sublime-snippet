@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnMasterServerEvent(MasterServerEvent ${1:msEvent})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnMasterServerEvent</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnMasterServerEvent</description>
+</snippet>

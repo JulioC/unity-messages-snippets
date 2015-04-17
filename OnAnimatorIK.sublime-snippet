@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnAnimatorIK(int ${1:layerIndex})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnAnimatorIK</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnAnimatorIK</description>
+</snippet>

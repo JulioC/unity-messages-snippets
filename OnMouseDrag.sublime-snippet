@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnMouseDrag()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnMouseDrag</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnMouseDrag</description>
+</snippet>

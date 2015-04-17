@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnDrag(PointerEventData ${1:eventData})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnDrag</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnDrag</description>
+</snippet>

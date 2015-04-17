@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnWizardOtherButton()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnWizardOtherButton</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnWizardOtherButton</description>
+</snippet>

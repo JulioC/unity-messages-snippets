@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPreCull()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnPreCull</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPreCull</description>
+</snippet>

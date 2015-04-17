@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnScroll(PointerEventData ${1:eventData})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnScroll</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnScroll</description>
+</snippet>

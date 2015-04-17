@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnUpdateSelected(BaseEventData ${1:eventData})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnUpdateSelected</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnUpdateSelected</description>
+</snippet>

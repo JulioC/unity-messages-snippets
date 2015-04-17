@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnProjectChange()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnProjectChange</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnProjectChange</description>
+</snippet>

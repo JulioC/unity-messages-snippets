@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnPostprocessAudio(AudioClip ${1:clip})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnPostprocessAudio</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnPostprocessAudio</description>
+</snippet>

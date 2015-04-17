@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void UpdateGeometry()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>UpdateGeometry</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message UpdateGeometry</description>
+</snippet>

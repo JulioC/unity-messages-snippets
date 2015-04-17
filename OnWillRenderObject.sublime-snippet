@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnWillRenderObject()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnWillRenderObject</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnWillRenderObject</description>
+</snippet>

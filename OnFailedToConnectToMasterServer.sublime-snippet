@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnFailedToConnectToMasterServer(NetworkConnectionError ${1:info})
+{
+	${2:}
+}]]></content>
+  <tabTrigger>OnFailedToConnectToMasterServer</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnFailedToConnectToMasterServer</description>
+</snippet>

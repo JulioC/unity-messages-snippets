@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void Reset()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>Reset</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message Reset</description>
+</snippet>

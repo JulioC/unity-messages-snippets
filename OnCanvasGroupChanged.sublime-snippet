@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnCanvasGroupChanged()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnCanvasGroupChanged</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnCanvasGroupChanged</description>
+</snippet>

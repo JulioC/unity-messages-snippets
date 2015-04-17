@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[private void OnWizardCreate()
+{
+	${1:}
+}]]></content>
+  <tabTrigger>OnWizardCreate</tabTrigger>
+  <scope>meta.class.body.source.cs</scope>
+  <description>Unity Message OnWizardCreate</description>
+</snippet>
